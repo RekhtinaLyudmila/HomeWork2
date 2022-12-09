@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\bin\Debug\net6.0\Program2_1.exe
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\bin\Debug\net6.0\Program2_1.deps.json
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\bin\Debug\net6.0\Program2_1.runtimeconfig.json
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\bin\Debug\net6.0\Program2_1.dll
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\bin\Debug\net6.0\Program2_1.pdb
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.AssemblyInfo.cs
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.dll
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\refint\Program2_1.dll
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.pdb
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\Program2_1.genruntimeconfig.cache
+C:\Users\Alex\Documents\Люда\ДЗ\ДЗ С#\HomeWork2\Program2_1\obj\Debug\net6.0\ref\Program2_1.dll
